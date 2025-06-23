@@ -1,0 +1,27 @@
+Generative AI
+  Generative AI is built by using supervised learning to repeatedly predict the next word. 
+  When we train a very large AI system on a lot of data, we get a large language model like ChatGPT.
+  
+Supervised Learning-based AI: 
+  Get labeled data  -> Train AI model on data -> Deploy model (find a cloud service to run it robustly)  ---  6 months
+Prompt-based AI:
+  Specify prompt --> Deploy model (to the cloud)  --- a week
+
+Supervised Learning Application is still the mainstream.
+Generative AI is promising. -  Create more opportunities.
+Unsupervised Learning is ok.
+Reinforcement Learning is developing but don't have enough commercial values.
+
+The value of AI concentrated in certian areas, such as comsumer software internet and Tech.
+  Small-budget projects can leverage AI to build customized low-code or no-code solutions. Users do this by providing prompts/Data instead of writing code.
+
+Bottom --> Top
+Hardware: nvidia, intel, amd (X)
+Infrastructure: AWS, GooglCloud (X)
+Developer Tools: Landing AI, RapidFire (X)
+Applications: xxxx, xxxx, xxxx, xxxx --> AI + Expertise 
+
+
+
+
+  
