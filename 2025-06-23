@@ -10,18 +10,27 @@ Prompt-based AI:
 Supervised Learning Application is still the mainstream.
 Generative AI is promising. -  Create more opportunities.
 Unsupervised Learning is ok.
-Reinforcement Learning is developing but don't have enough commercial values.
+Reinforcement Learning is developing but doesn't have enough commercial value.
 
-The value of AI concentrated in certian areas, such as comsumer software internet and Tech.
+The value of AI has been concentrated in specific areas, such as consumer software, the internet, and technology.
   Small-budget projects can leverage AI to build customized low-code or no-code solutions. Users do this by providing prompts/Data instead of writing code.
 
 Bottom --> Top
-Hardware: nvidia, intel, amd (X)
+Hardware: NVidia, Intel, AMD (X)
 Infrastructure: AWS, GooglCloud (X)
 Developer Tools: Landing AI, RapidFire (X)
 Applications: xxxx, xxxx, xxxx, xxxx --> AI + Expertise 
+  
+StartUp 
+  -> Idea: 
+      * Can be validated efficiently
+      * Gives clear direction to execute
+      * Often from a subject matter expert who's deeply thought about a problem
+  -> Validate(Market& technical validation) 
+  -> Recruit CEO(recruit CEO to build with us) 
+  -> Build with CEO (deep customer and technical validation/ BUild prototype)
+  -> Pre-seed growth $1M pre-seed. hire key executives, build MVP, Get early customer traction)
+  -> Seed, Growth, Scale
 
-
-
-
+Reference: Opportunities in AI by Andrew Ng
   
